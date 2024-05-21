@@ -1,0 +1,25 @@
+.phones-card1{
+    width: 100%;
+    height: 560px;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    margin-top: 160px;
+}
+.phones-1-img{
+    width: 540px; 
+    height: 560px;
+}
+.phone-desk{
+    color:#7d7d7d
+}
+.phones-header-card1{
+    margin-left: 125px;
+    margin-bottom: 90px;
+}
+.phones-card2{
+    padding-left: -165px;
+}
+.phones-header-card2{
+    margin-top: -90px;
+}
