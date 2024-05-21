@@ -406,7 +406,6 @@ footer {
 .pages-card3 {
   width: 100%;
   height: 318px;
-  border: solid red 1px;
   margin-top: 880px;
 }
 .features {
@@ -415,15 +414,58 @@ footer {
   line-height: 36px;
   letter-spacing: 1.1428571939468384px;
 }
-.pages-card3{
+.pages-card3 {
   display: flex;
   gap: 30px;
   justify-content: space-between;
   padding-right: 140px;
 }
-.pages-descc{
+.pages-descc {
   margin-top: 32px;
 }
-.xsx{
+.xsx {
   margin-top: 29px;
+}
+.xsx-desc {
+  margin-top: 10px;
+}
+.pages-card4 {
+  margin-top: 160px;
+  display: flex;
+  justify-content: space-between;
+}
+.pages-card4__div {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+.h33 {
+  text-align: center;
+  margin-top: 160px;
+}
+.pages-card5 {
+  width: 100%;
+  height: 471px;
+  margin-top: 64px;
+  display: flex;
+  justify-content: space-between;
+}
+.pages-card5__card {
+  width: 350px;
+  height: 491px;
+}
+.pages-card5-btn {
+  background: var(--orange);
+  color: white;
+  margin-left: 90px;
+  margin-top: 8px;
+}
+.xx99 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32.78px;
+  letter-spacing: 1.7142857313156128px;
+  text-align: center;
+  color: black;
+  margin-top: 20px;
 }
