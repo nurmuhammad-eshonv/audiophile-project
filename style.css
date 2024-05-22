@@ -470,7 +470,7 @@
     margin-top: 20px;
   }
   .car5 {
-    background-color: #ffffff;
+    background-color: #919275;
     width: 377px;
     position: absolute;
     border-radius: 8px;
@@ -500,7 +500,7 @@
 }
 
 .car5 .center p {
-    color: black;
+    color: rgb(252, 244, 244);
     font-family: 'Manrope-500';
 }
 
@@ -530,4 +530,7 @@
 }
 .modal-small{
   margin-top: 20px;
+}
+.hus{
+  background: rgb(245, 247, 243);
 }
